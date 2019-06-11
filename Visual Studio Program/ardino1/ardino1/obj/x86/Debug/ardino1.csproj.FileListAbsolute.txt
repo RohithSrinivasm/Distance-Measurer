@@ -1,0 +1,9 @@
+C:\kakaka\ardino1\ardino1\bin\Debug\ardino1.exe
+C:\kakaka\ardino1\ardino1\bin\Debug\ardino1.pdb
+C:\kakaka\ardino1\ardino1\bin\Debug\IOT_Library.dll
+C:\kakaka\ardino1\ardino1\obj\x86\Debug\ardino1.Form1.resources
+C:\kakaka\ardino1\ardino1\obj\x86\Debug\ardino1.Properties.Resources.resources
+C:\kakaka\ardino1\ardino1\obj\x86\Debug\ardino1.csproj.GenerateResource.Cache
+C:\kakaka\ardino1\ardino1\obj\x86\Debug\ardino1.exe
+C:\kakaka\ardino1\ardino1\obj\x86\Debug\ardino1.pdb
+C:\kakaka\ardino1\ardino1\obj\x86\Debug\ardino1.csprojResolveAssemblyReference.cache
