@@ -1,0 +1,9 @@
+This file contains the SQL commands required for the creation of the table.
+
+Create table aaardx
+(
+ val varchar(10)
+)
+
+
+select *from aaardx;
